@@ -1,0 +1,153 @@
+*{margin:0px;
+  padding:0px;}
+#top {
+	background-color: darkblue;
+	height: 30px;
+	margin-top: 1%;
+}
+.resume {
+	font-family: tahoma;
+	color: white;
+	font-size: 20px;
+	margin-left: 10%;
+	margin-top: .75%;
+}
+.social {
+	float: right;
+	width: 1.5%;
+	overflow-x: scroll;
+	overflow-y: hidden;
+	display: inline;
+	margin-top: .5%;
+	margin-right: .5%;
+}
+#john {
+	color: darkblue;
+	float: left;
+	font-family: tahoma;
+	margin-left: 10%;
+	font-size: 40px;
+}
+.director {
+	float: left;	
+	font-family: tahoma;
+	font-size: 25px;
+	color: grey;	
+}
+.statement{
+	color: blue;
+	font-family: tahoma;
+	font-size: 15px;
+	float: left;
+	margin-bottom: 2px;
+}
+.border{
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+}
+.borderline{
+	 line-height: 25em;
+	 height: 1px;
+	 background-color:lightgrey;
+	 border: 0px;
+}
+.img2 {
+	height: 110px;
+	float: left;
+	margin-right: 5px;
+}
+
+.writeup {
+	font-family: tahoma;
+	font-size: 10px;
+	color: lightgrey;
+	margin-bottom: 20px;
+}
+.institute {
+	font-family: tahoma;
+	font-size: 15px;
+	color: black;
+	margin-bottom:5px;
+}
+mark{
+	background-color: grey;
+	color: white;
+	float: right;
+	font-size: 12px;
+	font-weight: bold;
+}
+.university {
+	font-family: tahoma;
+	font-size: 12px;
+	color: black;	
+	margin-bottom: 5px;
+}
+#available {
+	float: right;
+	font-size: 25px;
+	font-family: tahoma;
+	color: grey;
+	margin-right: 10%;	
+}
+.avail{
+	float: right;	
+	font-family: tahoma;
+	font-size: 15px;
+	color: darkblue;	
+}
+.blueline {
+	 width: 20em;
+	 height: 2px;
+	 background-color:darkblue;
+	 border: 0px;
+}
+.website {
+	font-family: tahoma;
+	font-size: 11px;
+	color: black;
+}
+.write {
+	font-family: tahoma;
+	font-size: 10px;
+	color: lightgrey;
+	margin-top: 2%;
+}
+#bottom {
+	color: blue;
+	font-family: tahoma;
+	font-size: 15px;
+	float: left;
+	margin-left: 10%;
+	margin-top: 7.5%;
+}
+.line {
+	 width: 60em;
+	 height: 1px;
+	 background-color:lightgrey;
+	 border: 0px;	
+}
+.img3 {
+	width: 8%;
+	overflow-x: scroll;
+	overflow-y: hidden;
+	display: inline;
+	margin-top: .5%;	
+	margin-right: 8%;
+}
+#pictures {
+	float: left;
+	margin-left: 10%;	
+}
+.meter { 
+	height: 10px;
+	position: relative;
+	background: grey;
+}
+.span1 {
+   display: block;
+   height: 100%;
+   background-color: darkblue;					
+ }  
